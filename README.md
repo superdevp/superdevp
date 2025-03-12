@@ -32,15 +32,15 @@ Hello! I'm a passionate and experienced developer specializing in Full-Stack Dev
 - **Problem-Solving:** I excel at identifying issues and implementing innovative solutions.
 - **Continuous Learning:** Passionate about keeping up with the latest industry trends and technologies.
 
-
+<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
+    <div align="center">
+        <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superdevp&theme=gotham&title_color=66db37&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+        <img height="192px" src="https://github-readme-stats.vercel.app/api?username=superdevp&theme=gotham&rank_icon=github&title_color=66db37&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+  </div>
 <div align="center">
-  <a href="https://github.com/superdevp?tab=repositories">
-    <img height=190  src="https://github-readme-stats-one-bice.vercel.app/api?username=superdevp&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@Superdevp's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/superdevp?tab=repositories">
-    <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=superdevp&show_icons=true&locale=en&layout=compact&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="ovi" />
-  </a>
+  <img alt="superdevp's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=superdevp&bg_color=RRGGBBAA&title_color=00a50e&color=00a50e&line=66db37&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 </div>
+
 <br/><br/>
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" />
