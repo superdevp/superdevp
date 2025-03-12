@@ -2,6 +2,15 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;" alt="Typing SVG" /></a>
 </div>
+<br/><br/>
+
+<h3 align="center">
+    🎉 You are my &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/superdevp">
+        <img src="https://count.getloli.com/@:superdevp?theme=" alt=":superdevp" />
+    </a>
+    &nbsp;&nbsp;&nbsp;visitor. Thank You 😍 
+</h3>
 
 ## About Me
 Hello! I'm a passionate and experienced developer specializing in Full-Stack Development. With a strong background in 6 years of experience, I enjoy building scalable, efficient, and innovative solutions.
@@ -23,12 +32,16 @@ Hello! I'm a passionate and experienced developer specializing in Full-Stack Dev
 - **Problem-Solving:** I excel at identifying issues and implementing innovative solutions.
 - **Continuous Learning:** Passionate about keeping up with the latest industry trends and technologies.
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superdevp&show_icons=true&theme=dark)
 
-## Visitors Count
-![GitHub Stats](https://profile-counter.glitch.me/{superdevp}/count.svg)
-
+<div align="center">
+  <a href="https://github.com/superdevp?tab=repositories">
+    <img height=190  src="https://github-readme-stats-one-bice.vercel.app/api?username=superdevp&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@Superdevp's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/superdevp?tab=repositories">
+    <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=superdevp&show_icons=true&locale=en&layout=compact&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="ovi" />
+  </a>
+</div>
+<br/><br/>
 <div align="center">
   <a href="https://git.io/typing-svg" >
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" />
