@@ -40,9 +40,3 @@ Hello! I'm a passionate and experienced developer specializing in Full-Stack Dev
 <div align="center">
   <img alt="superdevp's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=superdevp&bg_color=RRGGBBAA&title_color=00a50e&color=00a50e&line=66db37&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 </div>
-
-<br/><br/>
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" />
-</div>
-
